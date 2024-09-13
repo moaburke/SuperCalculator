@@ -1,0 +1,1 @@
+This C# Windows Forms application provides tools for calculating and displaying BMI and BMR values based on user inputs, including options for metric and imperial units, and provides personalized recommendations for weight maintenance and management."
