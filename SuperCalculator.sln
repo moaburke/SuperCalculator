@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalculator", "SuperCalculator\SuperCalculator.csproj", "{CFC2390A-DAF6-423B-AF38-3B7C0BD47D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC2390A-DAF6-423B-AF38-3B7C0BD47D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC2390A-DAF6-423B-AF38-3B7C0BD47D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC2390A-DAF6-423B-AF38-3B7C0BD47D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC2390A-DAF6-423B-AF38-3B7C0BD47D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408E60EB-5EB6-4393-89D3-6D7DD5749CAC}
+	EndGlobalSection
+EndGlobal
