@@ -1,4 +1,5 @@
 # BMI and BMR Calculator
+![super_calculator.png](super_calculator.png)
 
 ## Overview
 
