@@ -1,9 +1,9 @@
 # BMI and BMR Calculator
-![super_calculator.png](super_calculator.png)
-
-## Overview
 
 The BMI and BMR Calculator is a Windows Forms application developed in C# designed to calculate Body Mass Index (BMI) and Basal Metabolic Rate (BMR). This application allows users to enter their height, weight, age, and other relevant information to calculate their BMI and BMR, providing valuable insights into their health and fitness.
+
+![super_calculator.png](super_calculator.png)
+
 
 ## Features
 
